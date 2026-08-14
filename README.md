@@ -1,4 +1,4 @@
-# 🎓 UniHelper
+# 🎓 Unify
 
 > A modern all-in-one student productivity platform designed to simplify university life.
 
