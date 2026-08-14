@@ -10,3 +10,5 @@ function App() {
   return <Routes><Route element={<AppLayout />}><Route path="/dashboard" element={<DashboardPage />} /><Route path="/academic" element={<AcademicPage />} /><Route path="/study" element={<StudyPage />} /><Route path="/campus-life" element={<CampusLifePage />} /><Route path="/profile" element={<ProfilePage />} /><Route path="/settings" element={<SettingsPage />} />{plannedRoutes.map(({ path, title }) => <Route key={path} path={path} element={<PlaceholderPage title={title} />} />)}</Route><Route path="*" element={<Navigate to="/dashboard" replace />} /></Routes>
 }
 export default App
+//adnan toke dhikkar
+// jayed tomake ki ......
