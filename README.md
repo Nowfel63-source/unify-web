@@ -8,7 +8,7 @@ UniHelper is a full-stack web application built to help university students mana
 
 ## ✨ Vision
 
-Instead of juggling multiple apps and websites, students can use UniHelper to:
+Instead of juggling multiple apps and websites, students can use Unify to:
 
 * 📅 Manage class schedules
 * ✅ Track assignments and deadlines
