@@ -2,7 +2,7 @@
 
 > A modern all-in-one student productivity platform designed to simplify university life.
 
-Unity is a full-stack web application built to help university students manage their academic and campus life from a single dashboard. It aims to combine productivity, organization, and collaboration into one clean, intuitive platform.
+Unify is a full-stack web application built to help university students manage their academic and campus life from a single dashboard. It aims to combine productivity, organization, and collaboration into one clean, intuitive platform.
 
 ---
 
